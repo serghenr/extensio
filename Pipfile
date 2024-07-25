@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pywhatkit = "5.4"
+pysimplegui = "5.0.6"
+
+
+[dev-packages]
+
+
+[requires]
+python_version = "3.11"
+
